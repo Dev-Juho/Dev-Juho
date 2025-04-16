@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juhotheohjelmoija" alt="juhotheohjelmoija" /></a> </p>
 
-- 🔭 I’m currently working on [EnergyRacer](https://github.com/JuhoTheOhjelmoija/EnergyRacer)
+- 🔭 I’m currently working on [FitnessTracker](https://github.com/JuhoTheOhjelmoija/Fitness-Tracker)
 
 - 👯 I’m looking to collaborate on [Hedelmäpeli](https://github.com/JuhoTheOhjelmoija/HedelmaPeli)
 
