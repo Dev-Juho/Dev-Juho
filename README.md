@@ -10,8 +10,6 @@
 - 👯 I’m looking to collaborate on [Hedelmäpeli](https://github.com/JuhoTheOhjelmoija/HedelmaPeli)
 
 - 💬 Ask me about **react, tailwind and typescript**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
