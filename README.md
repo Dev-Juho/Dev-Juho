@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FitnessTracker](https://github.com/JuhoTheOhjelmoija/Fitness-Tracker)
 
-- 👯 I’m looking to collaborate on [Filux](https://github.com/JuhoTheOhjelmoija/Filux)
+- 👯 I’m looking to collaborate on [FiluX](https://github.com/JuhoTheOhjelmoija/FiluX)
 
 - 💬 Ask me about **react, tailwind and typescript**
 <p align="left">
